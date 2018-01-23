@@ -1,0 +1,12 @@
+#result {
+	font-size: 150px;
+}
+
+.row img{
+	max-width: 	100%;
+	height: 875px;
+}
+
+.alert-light {
+	color: gray;
+}
